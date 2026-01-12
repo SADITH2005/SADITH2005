@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadith2005&label=Profile%20views&color=0e75b6&style=flat" alt="sadith2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadith2005" alt="sadith2005" /></a> </p>
-
 - 🌱 I’m currently learning **BSc (Hons) Cyber Security at University of Greenwich**
 
 - 👨‍💻 All of my projects are available at [https://sadithrashmika-d196c.web.app/](https://sadithrashmika-d196c.web.app/)
 
 - 📫 How to reach me **sadithrashmika05@gmail.com**
 
+CONTACT---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
