@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadith Rashmika</h1>
 
 <p align="center">
-  <b>Cyber Security Student • Full-Stack Developer</b><br/>
+  <b>Cyber Security Student • Full-Stack Developer • Digital Marketing </b><br/>
   Sri Lanka 🇱🇰
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Full+Stack+Developer;Digital+Marketing;AI+%26+Automation+Enthusiast" />
 </p>
 
 <hr/>
